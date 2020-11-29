@@ -1,6 +1,0 @@
-﻿token=NzgyNDEwMDgwMjUwODg4MjMz.X8LyKw.C106M8WLGA1q-IuHpY6ztocJaWY
-owner=295500060454551554
-prefix= b
-game= !thelp
-stayinchannel=true
-songinstatus=true 
